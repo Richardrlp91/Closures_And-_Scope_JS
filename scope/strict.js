@@ -1,5 +1,5 @@
 //*? USANDO EL MODO ESTRICTO.
-//** Cuando usamos el modo estricto, obligamos a que el codigo se escriba correctamente sin hacer uso del hoisting(elevación de las variables) y el tiempo de compilación.
+//** Cuando usamos el modo estricto, obligamos a que el codigo se escriba correctamente sin hacer uso del hoisting(Darle valores iniciales a las variables y cargar las funciones en memoria justo antes de comenzar la ejecución las funciones) y el tiempo de compilación.
 
 
 'use strict'; // Se puede usar al inicio del documento o dentro de una función para activar el modo estricto.
