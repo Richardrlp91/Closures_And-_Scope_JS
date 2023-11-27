@@ -9,6 +9,7 @@ console.log(nameOfDog);
         * function: Se eleva por completo.
         * import: Se eleva por completo.
         * class: No es afectada por el Hoisting.
+        todo- Let y const quedan en algo que se conoce como la "temporal Dead Zone" o "Zona muerta Temporal".
 
 */
 
